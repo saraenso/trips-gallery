@@ -1,0 +1,10 @@
+.trips-section {
+    margin-top: 90px;
+    margin-bottom: 84px;
+}
+
+.trip-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
